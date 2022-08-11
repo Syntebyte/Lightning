@@ -1,0 +1,6 @@
+name: Lightning
+version: 0.1-dev
+description: Sky falls
+author: Syntebyte
+main: com.syntebyte.lightning.Lightning
+api-version: 1.13

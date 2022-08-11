@@ -1,0 +1,25 @@
+
+# IDE
+.dependencies/
+*.project
+*.settings
+.idea/
+.notes/
+*.iml
+.DS_Store
+*.classpath
+
+# Builds
+.gradle/
+build/
+*.class
+jars/
+out/
+run/
+target/
+
+# Other
+.server/
+runserver.cmd
+runserver.sh
+Thumbs.db
