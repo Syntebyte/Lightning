@@ -23,6 +23,7 @@ public class Lightning extends JavaPlugin {
 
     public void onDisable() {
 
+        // Remove all not landed meteors
         getLogger().info("Lightning stopped.");
     }
 }

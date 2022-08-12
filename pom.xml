@@ -6,7 +6,7 @@
 
     <groupId>com.syntebyte.lightning</groupId>
     <artifactId>Lightning</artifactId>
-    <version>0.1-DEV-SNAPSHOT</version>
+    <version>0.15-DEV-SNAPSHOT</version>
     <packaging>jar</packaging>
 
 
